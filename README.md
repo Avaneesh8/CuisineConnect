@@ -1,6 +1,6 @@
 # CuisineConnect Application
 
-Interactive Recipe Guide. Explore a rich variety of recipes with step-by-step guidance in this user-friendly culinary app.
+Interactive Recipe Guide. Explore a rich variety of recipes with step-by-step guidance in this user-friendly culinary application.
 
 ## Getting Started
 
